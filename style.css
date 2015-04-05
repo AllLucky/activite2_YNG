@@ -1,0 +1,44 @@
+/* Styles de base */
+		  
+		.btn-md 
+		{
+			margin-top: 20px;
+			width: 45px;
+			height: 45px;
+			border-radius: 25px;				
+		}
+		
+		#myCarousel
+		{
+			margin-top:	-20px;
+		}
+		
+		.jumbotron
+		{
+			margin:	-30px 0px -30px 0px;			
+		}
+
+		img, input, textarea
+		{
+			width: 100%;		
+		}
+		
+		section h1
+		{
+			margin-bottom: 25px;	
+		}	
+		
+		button
+		{
+			float: right;
+		}
+		
+		footer
+		{
+			margin: 150px 0px 50px 0px;
+		}
+		
+		.inputEmail
+		{
+			margin-bottom: 5px;
+		}
